@@ -1,53 +1,53 @@
 tw.gui.crashMessage.description:
-  defaultMessage: We are so sorry, but it looks like TurboWarp has crashed. Please refresh your page to try again.
+  defaultMessage: Çok üzgünüz, TurboWarp çökmüş görünüyor. Lütfen sayfayı yenileyerek tekrar deneyiniz.
   description: Message to inform the user that page has crashed.
   message: null
 tw.loadingMessage:
-  defaultMessage: Loading project …
+  defaultMessage: Proje yükleniyor …
   description: Default loading message
   message: null
 tw.menuBar.60off:
-  defaultMessage: Turn off 60 FPS mode
+  defaultMessage: 60 FPS modunu kapat
   description: Menu bar item for turning off 60 FPS mode
   message: null
 tw.menuBar.60on:
-  defaultMessage: Turn on 60 FPS mode
+  defaultMessage: 60 FPS modunu aç
   description: Menu bar item for turning on 60 FPS mode
   message: null
 tw.menuBar.changeUsername:
-  defaultMessage: Change Username
+  defaultMessage: Adını değiştir
   description: Menu bar item for changing the username
   message: null
 tw.menuBar.cloudOff:
-  defaultMessage: Disable Cloud Variables
+  defaultMessage: Bulut değişkenleri kapat
   description: Menu bar item for disabling cloud variables
   message: null
 tw.menuBar.cloudOn:
-  defaultMessage: Enable Cloud Variables
+  defaultMessage: Bulut değişkenleri aç
   description: Menu bar item for enabling cloud variables
   message: null
 tw.menuBar.cloudUnavailable:
-  defaultMessage: Cloud Variables are not Available
+  defaultMessage: Bulut değişkenler mevcut değildir
   description: Menu bar item for when cloud variables are not available
   message: null
 tw.menuBar.advanced:
-  defaultMessage: Advanced
+  defaultMessage: Gelişmiş
   description: Text for advanced settings dropdown menu
   message: null
 tw.menuBar.hqpOff:
-  defaultMessage: Turn off High Quality Pen
+  defaultMessage: Yüksek kalite kalemi kapat
   description: Menu bar item for turning off high quality pen
   message: null
 tw.menuBar.hqpOn:
-  defaultMessage: Turn on High Quality Pen
+  defaultMessage: Yüksek kalite kalemi aç
   description: Menu bar item for turning on high quality pen
   message: null
 tw.menuBar.compilerOff:
-  defaultMessage: Disable Compiler
+  defaultMessage: Derleyiciyi kapat
   description: Menu bar item for disabling the compiler
   message: null
 tw.menuBar.compilerOn:
-  defaultMessage: Enable Compiler
+  defaultMessage: Derleyiciyi aç
   description: Menu bar item for enabling the compiler
   message: null
 tw.menuBar.warpTimerOff:
@@ -59,11 +59,11 @@ tw.menuBar.warpTimerOn:
   description: Menu bar item for turning on Warp Timer
   message: null
 tw.menuBar.help:
-  defaultMessage: Help
+  defaultMessage: Yardım
   description: Text for TurboWarp Help dropdown menu
   message: null
 tw.menuBar.code:
-  defaultMessage: Source Code
+  defaultMessage: Kaynak Kodu
   description: Text for source code link in the Help menu
   message: null
 tw.menuBar.feedback:
@@ -119,7 +119,7 @@ tw.alerts.warning:
   description: Message warning user of potential data loss.
   message: null
 tw.gui.defaultProjectTitle:
-  defaultMessage: Project
+  defaultMessage: Proje
   description: Default title for project
   message: null
 tw.home.description:
@@ -131,7 +131,7 @@ tw.footer.disclaimer:
   description: Disclaimer that TurboWarp is not connected to Scratch and licensing information
   message: null
 tw.footer.host:
-  defaultMessage: Hosting for TurboWarp is provided by {fosshost}.
+  defaultMessage: TurboWarp için sağlanmak fosshost tarafından sağlanır
   description: Host credit
   message: null
 tw.footer.host.fosshost:
@@ -139,7 +139,7 @@ tw.footer.host.fosshost:
   description: Link to fosshost.org
   message: null
 tw.footer.source:
-  defaultMessage: Source Code
+  defaultMessage: Kaynak Kodu
   description: Link to footer to source code
   message: null
 tw.footer.feedback:
@@ -147,6 +147,7 @@ tw.footer.feedback:
   description: Link in footer to give feedback
   message: null
 tw.footer.privacy:
-  defaultMessage: Privacy
+  defaultMessage: Gizlilik
   description: Link in footer to privacy policy
   message: null
+  
