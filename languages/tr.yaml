@@ -5,51 +5,51 @@ tw.gui.crashMessage.description:
 tw.loadingMessage:
   englishMessage: Loading project …
   description: Default loading message
-  message: null
+  message: Proje yükleniyor …
 tw.menuBar.60off:
   englishMessage: Turn off 60 FPS mode
   description: Menu bar item for turning off 60 FPS mode
-  message: null
+  message: 60 FPS modunu kapat
 tw.menuBar.60on:
   englishMessage: Turn on 60 FPS mode
   description: Menu bar item for turning on 60 FPS mode
-  message: null
+  message: 60 FPS modunu aç
 tw.menuBar.changeUsername:
   englishMessage: Change Username
   description: Menu bar item for changing the username
-  message: null
+  message: Adını değiştir
 tw.menuBar.cloudOff:
   englishMessage: Disable Cloud Variables
   description: Menu bar item for disabling cloud variables
-  message: null
+  message: Bulut değişkenleri kapat
 tw.menuBar.cloudOn:
   englishMessage: Enable Cloud Variables
   description: Menu bar item for enabling cloud variables
-  message: null
+  message: Bulut değişkenleri aç
 tw.menuBar.cloudUnavailable:
   englishMessage: Cloud Variables are not Available
   description: Menu bar item for when cloud variables are not available
-  message: null
+  message: Bulut Değişkenleri bulamıyoruz
 tw.menuBar.advanced:
   englishMessage: Advanced
   description: Text for advanced settings dropdown menu
-  message: null
+  message: Gelişmiş
 tw.menuBar.hqpOff:
   englishMessage: Turn off High Quality Pen
   description: Menu bar item for turning off high quality pen
-  message: null
+  message: Yüksek kalite kalemi kapat
 tw.menuBar.hqpOn:
   englishMessage: Turn on High Quality Pen
   description: Menu bar item for turning on high quality pen
-  message: null
+  message: Yüksek kalite kalemi aç
 tw.menuBar.compilerOff:
   englishMessage: Disable Compiler
   description: Menu bar item for disabling the compiler
-  message: null
+  message: Derlemeyi kapat
 tw.menuBar.compilerOn:
   englishMessage: Enable Compiler
   description: Menu bar item for enabling the compiler
-  message: null
+  message: Derlemeyi aç
 tw.menuBar.warpTimerOff:
   englishMessage: Turn off Warp Timer (Stuck Checking)
   description: Menu bar item for turning off Warp Timer
@@ -61,19 +61,19 @@ tw.menuBar.warpTimerOn:
 tw.menuBar.help:
   englishMessage: Help
   description: Text for TurboWarp Help dropdown menu
-  message: null
+  message: Yardım
 tw.menuBar.code:
   englishMessage: Source Code
   description: Text for source code link in the Help menu
-  message: null
+  message: Kaynak Kodu
 tw.menuBar.feedback:
   englishMessage: Feedback & Bugs
   description: Text for feedback link in the Help menu
-  message: null
+  message:  Geribildirim & Hatalar
 tw.menuBar.privacy:
   englishMessage: Privacy
   description: Text for privacy policy link in the Help menu
-  message: null
+  message: Gizlilik
 tw.menuBar.embed:
   englishMessage: Embedding
   description: Text for embedding link in the Help menu
@@ -85,19 +85,19 @@ tw.menuBar.parameters:
 tw.giveFeedback:
   englishMessage: Give Feedback
   description: Text for the giving feedback button
-  message: null
+  message: Geribildirim ver
 tw.unsavedChanges:
   englishMessage: Unsaved Changes
   description: Title bar link indicating unsaved changes
-  message: null
+  message: Kaydedilmemeiş değişiklikler
 tw.menuBar.seeInside:
   englishMessage: See Inside
   description: Label for see inside button
-  message: null
+  message: İçine bak
 tw.home.instructions:
   englishMessage: Instructions
   description: Header for instructions section of description
-  message: null
+  message: Kurallar
 tw.home.credit:
   englishMessage: Notes and Credits
   description: Header for notes and credits section of description
@@ -109,11 +109,11 @@ tw.viewFeaturedProjects:
 tw.featuredProjectsStudio:
   englishMessage: View studio on Scratch.
   description: Link to turbowarp featured projects studio
-  message: null
+  message: Scratch'te stüdyoya bak
 tw.framerateIndicator:
   englishMessage: "{framerate} FPS"
   description: Label indicating project framerate
-  message: null
+  message: "{framerate} FPS"
 tw.alerts.warning:
   englishMessage: Turn on Warp Timer or disable compiler (in Advanced menu) while creating projects to avoid potential data loss. Also note that scripts may need to be restarted for changes to apply.
   description: Message warning user of potential data loss.
@@ -121,7 +121,7 @@ tw.alerts.warning:
 tw.gui.defaultProjectTitle:
   englishMessage: Project
   description: Default title for project
-  message: null
+  message: Proje
 tw.home.description:
   englishMessage: TurboWarp is a Scratch mod that compiles projects to JavaScript to make them run really fast. Try it out by inputting a project ID or URL above or choosing a featured project below.
   description: Description of TurboWarp
@@ -133,20 +133,20 @@ tw.footer.disclaimer:
 tw.footer.host:
   englishMessage: Hosting for TurboWarp is provided by {fosshost}.
   description: Host credit
-  message: null
+  message: Turbowarp'u {fosshost} sağlıyor.
 tw.footer.host.fosshost:
   englishMessage: fosshost.org
   description: Link to fosshost.org
-  message: null
+  message: fosshost.org
 tw.footer.source:
   englishMessage: Source Code
   description: Link to footer to source code
-  message: null
+  message: Kaynak Kodu
 tw.footer.feedback:
   englishMessage: Feedback & Bugs
   description: Link in footer to give feedback
-  message: null
+  message: Geri Bildirim ve Hatalar
 tw.footer.privacy:
   englishMessage: Privacy
   description: Link in footer to privacy policy
-  message: null
+  message: Gizlilik
